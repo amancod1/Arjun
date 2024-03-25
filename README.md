@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Arjun.png" alt="Arjun Logo" >
+  <img src="assets/Arjun.png" alt="Arjun Logo" width="550" >
 </p>
 
 <h1 align="center">🚀 Arjun - Autonomous AI Software Engineer 👩‍💻</h1>
